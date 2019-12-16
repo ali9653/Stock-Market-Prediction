@@ -1,0 +1,22 @@
+There are total 3 projects:
+1) Fetch Historical Indian Stock Market Data.
+2) Stock Market Prediction using Machine Learning(Regression).
+3) Stock Market Prediction using LSTM.
+
+Each Folder has a jupyter notebook file and a word file for explaination.
+
+Sources:
+
+https://www.analyticsvidhya.com/
+
+https://medium.com/
+
+https://towardsdatascience.com/machine-learning-techniques-applied-to-stock-price-prediction-6c1994da8001
+
+https://nsepy.readthedocs.io/en/latest/
+
+https://www.quandl.com/tools/python
+
+google.com
+
+My old Projects
